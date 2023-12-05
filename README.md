@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pra1hamCodes
 - 👀 I’m interested in Android Development, Full Stack web development, full stack Blockchain Development
-- 🌱 I’m currently learning full stack web dev and Blockchaion dev
+- 🌱 I’m currently learning full stack web dev , app development and Blockchaion dev
 - 💞️ I’m looking to collaborate on any projects in my above skills
 - 📫 How to reach me
 - my linkdin: www.linkedin.com/in/prathmesh-pandey-3b558325a
